@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-30T20:21:35.426Z"
+    },
+    {
+      "id": 2,
+      "description": "Desolvimento de e-Commerce",
+      "type": "income",
+      "category": "Venda",
+      "price": 22000,
+      "createdAt": "2023-01-30T20:21:35.426Z"
+    },
+    {
+      "id": 3,
+      "description": "Compra Notebook",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 1350,
+      "createdAt": "2024-04-20T14:21:35.426Z"
+    },
+    {
+      "description": "Desenvolvimento site e e-commerce",
+      "price": 8000,
+      "category": "serviços",
+      "type": "income",
+      "createdAt": "2024-11-05T17:53:04.476Z",
+      "id": 4
+    },
+    {
+      "description": "lanche",
+      "price": 25,
+      "category": "Aliemntação",
+      "type": "outcome",
+      "createdAt": "2024-11-05T17:53:45.339Z",
+      "id": 5
+    }
+  ]
+}
